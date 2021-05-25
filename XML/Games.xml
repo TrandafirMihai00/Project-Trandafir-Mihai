@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Games.xsl"?>
+<games>
+    <game>
+        <title>Red Dead Redemption 2</title>
+        <copies-sold>36000000</copies-sold>
+        <price>40</price>
+        <genre>Action-adventure</genre>
+        <developer>Rockstar Studios</developer>
+    </game>
+    <game>
+        <title>Half-Life: Alyx</title>
+        <copies-sold>103000</copies-sold>
+        <price>50</price>
+        <genre>First-person shooter</genre>
+        <developer>Valve</developer>
+    </game>
+    <game>
+        <title>Counter-Strike: Global Offensive</title>
+        <copies-sold>40000000</copies-sold>
+        <price>13</price>
+        <genre>First-person shooter</genre>
+        <developer>Valve</developer>
+    </game>
+    <game>
+        <title>Fall Guys: Ultimate Knockout</title>
+        <copies-sold>11000000</copies-sold>
+        <price>20</price>
+        <genre>Battle royale ‎platform</genre>
+        <developer>Mediatonic</developer>
+    </game>
+    <game>
+        <title>DEATH STRANDING</title>
+        <copies-sold>3000000</copies-sold>
+        <price>60</price>
+        <genre>Action</genre>
+        <developer>Kojima Productions</developer>
+    </game>
+    <game>
+        <title>Apex Legends</title>
+        <copies-sold>130000</copies-sold>
+        <price>0</price>
+        <genre>Battle royale first-person shooter</genre>
+        <developer>Respawn Entertainment</developer>
+    </game>
+    <game>
+        <title>Ori and the Will of the Wisps</title>
+        <copies-sold>2000000</copies-sold>
+        <price>30</price>
+        <genre>Platform-adventure ‎Metroidvania</genre>
+        <developer>Moon Studios</developer>
+    </game>
+    <game>
+        <title>DOOM Eternal</title>
+        <copies-sold>3000000</copies-sold>
+        <price>60</price>
+        <genre>First-person shooter</genre>
+        <developer>id Software</developer>
+    </game>
+    <game>
+        <title>The Sims 4</title>
+        <copies-sold>200000000</copies-sold>
+        <price>40</price>
+        <genre>Simulation</genre>
+        <developer>Maxis</developer>
+    </game>
+    
+</games>
